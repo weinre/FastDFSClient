@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="FastDFS.WCF.Host.FileService" CodeBehind="FileService.svc.cs" %>
